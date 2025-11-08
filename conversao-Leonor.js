@@ -12,4 +12,4 @@ console.log(valorEmDolar);
 
 console.log("Tipo de dados antes da conversão:", typeof valorEmEuro);
 console.log("Tipo de dados depois da conversão:", typeof valorEmDolar);
-console.log(valorEmEuro, MOEDAORIGEM, "equivalem a", valorEmDolar, MOEDADESTINO +".");
+console.log(valorEmEuro, MOEDAORIGEM, "equivalem a", valorEmDolar, MOEDADESTINO,".");
